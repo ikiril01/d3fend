@@ -11,7 +11,7 @@ D3-APLM,Model,,,Active Physical Link Mapping,Active physical link mapping sends 
 D3-NVA,Model,,Network Vulnerability Assessment,,"Network vulnerability assessment relates all the vulnerabilities of a network's components in the context of their configuration and interdependencies and can also include assessing risk emerging from the network's design as a whole, not just the sum of individual network node or network segment vulnerabilities."
 D3-NTPM,Model,,Network Traffic Policy Mapping,,"Network traffic policy mapping identifies and models the allowed pathways of data at the network, transport, and/or application levels."
 D3-LLM,Model,,Logical Link Mapping,,Logical link mapping creates a model of existing or previous node-to-node connections using network-layer data or metadata.
-D3-PLLM,Model,,,Passive Logical Link Mapping,"Passive logical link mapping only listens to network traffic as a means to map the the whole data link layer, where the links represent logical data flows rather than physical connections."
+D3-PLLM,Model,,,Passive Logical Link Mapping,"Passive logical link mapping only listens to network traffic as a means to map the whole data link layer, where the links represent logical data flows rather than physical connections."
 D3-ALLM,Model,,,Active Logical Link Mapping,"Active logical link mapping sends and receives network traffic as a means to map the whole data link layer, where the links represent logical data flows rather than physical connection"
 D3-AI,Model,Asset Inventory,,,
 D3-SWI,Model,,Software Inventory,,Software inventorying identifies and records the software items in the organization's architecture.
@@ -209,7 +209,7 @@ D3-EDL,Isolate,,Executable Denylisting,,Blocking the execution of files on a hos
 D3-EAL,Isolate,,Executable Allowlisting,,Using a digital signature to authenticate a file before opening.
 D3-ABPI,Isolate,,Application-based Process Isolation,,Application code which prevents its own subroutines from accessing intra-process / internal memory space.
 D3-APA,Isolate,Access Policy Administration,,,
-D3F-UGPH,Isolate,,User Group Permissions,,Access control where access is determined based on attributes associated with users and the objects being accessed.
+D3-UGPH,Isolate,,User Group Permissions,,Access control where access is determined based on attributes associated with users and the objects being accessed.
 D3-UAP,Isolate,,User Account Permissions,,Restricting a user account's access to resources.
 D3-LFP,Isolate,,Local File Permissions,,"Local file permissions is the systematic process of defining, implementing, and managing access control policies that dictate user permissions for accessing files on a local system through the configuration of operating system functionality."
 D3-DTP,Isolate,,Domain Trust Policy,,Restricting inter-domain trust by modifying domain configuration.
@@ -269,4 +269,4 @@ D3-RA,Restore,Restore Access,,,
 D3-RUAA,Restore,,Restore User Account Access,,Restoring a user account's access to resources.
 D3-ULA,Restore,,,Unlock Account,Restoring a user account's access to resources by unlocking a locked User Account.
 D3-RNA,Restore,,Restore Network Access,,Restoring a entity's access to a computer network.
-D3-RIC,Restore,,Reissue Credential,,Issue a new credential to a user which supercedes their old credential.
+D3-RIC,Restore,,Reissue Credential,,Issue a new credential to a user which supersedes their old credential.
